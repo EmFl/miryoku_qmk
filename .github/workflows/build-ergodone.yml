@@ -7,3 +7,4 @@ jobs:
     with:
       keyboard: '["ktec/ergodone"]'
       alphas: '["QWERTY"]'
+      nav: 'VI'
